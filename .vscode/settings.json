@@ -1,3 +1,5 @@
 {
-    "python.pythonPath": "/mnt/s/Github/E-learning Project/env/e_learning/bin/python3"
+    "python.pythonPath": "/mnt/s/Github/E-learning Project/env/e_learning/bin/python3",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
 }
